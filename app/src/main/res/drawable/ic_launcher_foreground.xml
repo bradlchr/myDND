@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- D20 Outer Facets -->
+    <!-- Top-center triangle facet -->
+    <path
+        android:fillColor="#E06D53"
+        android:strokeColor="#FFDF78"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:pathData="M54,24 L76,44 L32,44 Z" />
+
+    <!-- Center Upper Left facet -->
+    <path
+        android:fillColor="#BA4336"
+        android:strokeColor="#FFDF78"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:pathData="M32,44 L54,24 L24,38 Z" />
+
+    <!-- Center Upper Right facet -->
+    <path
+        android:fillColor="#962F2E"
+        android:strokeColor="#FFDF78"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:pathData="M76,44 L54,24 L84,38 Z" />
+
+    <!-- Left Outer facet -->
+    <path
+        android:fillColor="#702228"
+        android:strokeColor="#FFDF78"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:pathData="M24,38 L32,44 L20,64 Z" />
+
+    <!-- Right Outer facet -->
+    <path
+        android:fillColor="#5A1A22"
+        android:strokeColor="#FFDF78"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:pathData="M84,38 L76,44 L88,64 Z" />
+
+    <!-- Main Front Center Hexagon / Triangles (the prominent face) -->
+    <path
+        android:fillColor="#D84F3B"
+        android:strokeColor="#FFDF78"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round"
+        android:pathData="M32,44 L76,44 L54,78 Z" />
+
+    <!-- Lower Left facet -->
+    <path
+        android:fillColor="#A8322E"
+        android:strokeColor="#FFDF78"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:pathData="M20,64 L32,44 L54,78 Z" />
+
+    <!-- Lower Right facet -->
+    <path
+        android:fillColor="#872328"
+        android:strokeColor="#FFDF78"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:pathData="M88,64 L76,44 L54,78 Z" />
+
+    <!-- Bottom Left facet -->
+    <path
+        android:fillColor="#501822"
+        android:strokeColor="#FFDF78"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:pathData="M20,64 L54,78 L38,84 Z" />
+
+    <!-- Bottom Right facet -->
+    <path
+        android:fillColor="#42131D"
+        android:strokeColor="#FFDF78"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:pathData="M88,64 L54,78 L70,84 Z" />
+
+    <!-- Bottom Center facet -->
+    <path
+        android:fillColor="#340E17"
+        android:strokeColor="#FFDF78"
+        android:strokeWidth="1.5"
+        android:strokeLineJoin="round"
+        android:pathData="M54,78 L38,84 L54,88 L70,84 Z" />
+
+    <!-- Number 20 on Center Face -->
+    <!-- Digit 2 -->
+    <path
+        android:fillColor="#FFF4D0"
+        android:pathData="M46.5,53 C46.5,50.8 48.2,49.2 50.2,49.2 C52.2,49.2 53.6,50.5 53.6,52.2 C53.6,54.0 52.4,55.3 50.8,56.7 L47,60.2 L54,60.2 L54,62 L46,62 L46,60.5 L50.5,56.5 C51.6,55.5 52.2,54.6 52.2,53.2 C52.2,52.2 51.4,51.4 50.2,51.4 C49.0,51.4 48.3,52.2 48.3,53.2 L46.5,53 Z" />
+
+    <!-- Digit 0 -->
+    <path
+        android:fillColor="#FFF4D0"
+        android:pathData="M57.5,49.2 C60.2,49.2 62,51.5 62,55.6 C62,59.7 60.2,62 57.5,62 C54.8,62 53,59.7 53,55.6 C53,51.5 54.8,49.2 57.5,49.2 Z M57.5,51.2 C56.1,51.2 54.8,52.8 54.8,55.6 C54.8,58.4 56.1,60.0 57.5,60.0 C58.9,60.0 60.2,58.4 60.2,55.6 C60.2,52.8 58.9,51.2 57.5,51.2 Z" />
+</vector>
