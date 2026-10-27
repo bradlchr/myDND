@@ -1,1 +1,0 @@
-$$\text{eGFR}_{\text{female}} = \text{round} \left( 142 \times \min\left(\frac{\text{Creat}_{\text{serum}}}{0.7}, 1\right)^{-0.241} \times \max\left(\frac{\text{Creat}_{\text{serum}}}{0.7}, 1\right)^{-1.200} \times 0.9938^{\text{Age}} \times 1.012, \; 2 \right)$$
